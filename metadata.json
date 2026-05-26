@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Tập Tính Toán Hóa Học",
+  "description": "Ứng dụng ôn luyện tính số oxi hóa, cân bằng phản ứng oxi hóa khử và giải bài toán hóa học tổng hợp có giải thích chi tiết và bài tập củng cố thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
